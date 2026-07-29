@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="/project/Android_projects" vcs="Git" />
+    <mapping directory="/project/Android_projects/QuizVault" vcs="Git" />
   </component>
 </project>

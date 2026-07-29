@@ -1,0 +1,29 @@
+[
+  {
+    "categoryName": "Science & Tech",
+    "description": "10 questions about chemistry & physics",
+    "questions": [
+      {
+        "questionText": "What is the chemical symbol for Gold?",
+        "options": ["Au", "Ag", "Fe", "Pb"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "What planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Venus"],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "categoryName": "History & World",
+    "description": "Test your historical knowledge",
+    "questions": [
+      {
+        "questionText": "In which year did WWII end?",
+        "options": ["1943", "1945", "1950", "1918"],
+        "correctAnswerIndex": 1
+      }
+    ]
+  }
+]

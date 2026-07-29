@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">QuizVault</string>
+    <string name="txt1"> Science &amp; Tech </string>
+    <string name="txt2"> History &amp; World </string>
+    <string name="txt3"> Mathematics </string>
+    <string name="txt4"> Medical Knowledge </string>
+    <string name="txt5">General Knowledge </string>
+    <string name="noqs1"> 30 Questions </string>
 </resources>
